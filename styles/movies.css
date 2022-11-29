@@ -1,0 +1,25 @@
+#top_div {
+  height: 5.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+#movies {
+  display: grid;
+  grid-template-columns: repeat(4, 22%);
+  justify-content: center;
+  gap: 10px;
+}
+#search {
+  margin-top: 1rem;
+  margin-left: 40%;
+  width: 22%;
+}
+.movie_tab {
+  border: 1px solid blue;
+  height: 35rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+img {
+  margin-top: 1rem;
+}

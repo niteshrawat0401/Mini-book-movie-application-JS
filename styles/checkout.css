@@ -1,0 +1,14 @@
+#user_name {
+  margin-top: 1rem;
+  margin-left: 38%;
+}
+#movie {
+  /* border: 1px solid red; */
+  width: 20%;
+  text-align: center;
+  margin: auto;
+  margin-top: 2rem;
+}
+#booking_status {
+  text-align: center;
+}
